@@ -1,0 +1,1 @@
+EXEC CoolStoredProc @pTradeDate = '20180920',@pOrderNumber = '636730640278898634',@pSymbol = 'MSFT',@pPrice = '113.35',@pAccount = 'ACCT',@pSide = '1',@pStatus = '1',@pQuantity = '7000';

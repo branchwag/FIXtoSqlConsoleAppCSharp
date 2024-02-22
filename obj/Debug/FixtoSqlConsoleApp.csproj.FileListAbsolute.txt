@@ -1,0 +1,7 @@
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\bin\Debug\FixtoSqlConsoleApp.exe.config
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\bin\Debug\FixtoSqlConsoleApp.exe
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\bin\Debug\FixtoSqlConsoleApp.pdb
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\obj\Debug\FixtoSqlConsoleApp.csproj.AssemblyReference.cache
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\obj\Debug\FixtoSqlConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\obj\Debug\FixtoSqlConsoleApp.exe
+C:\Users\branc\source\repos\FixtoSqlConsoleApp\obj\Debug\FixtoSqlConsoleApp.pdb
