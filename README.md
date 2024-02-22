@@ -1,3 +1,5 @@
+#FIXtoSQLProcessor
+
 This is a console app that takes a FIX log file (pipe delimiter) and outputs an SQL EXEC line per 35=8 message in it. Feel free to edit the delimiter, msgType, fields, and SQL statement to suite your needs. Sample files are also included in the repo.
 I have worked with FIX for a while and know this can help very helpful in the event of an issue! Let me know if you end up using it!
 
